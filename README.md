@@ -1,6 +1,6 @@
 # Machine_Learning_Healthcare
 
-In this project I forecasted likelihood of patient show/no show for an appointment using patient EHRs, resulting in an increase in prediction accuracy from 0.81 to 0.91. 
+In this project I forecasted likelihood of patient show/no show for an appointment using patient EHRs, resulting in an increase in prediction accuracy from 0.81 (baseline) to 0.91. 
 This model empowers providers to take the actions necessary to reduce cost and improve patient outcomes by ensuring high risk patients attend appointments.
 
 ## Getting Started
