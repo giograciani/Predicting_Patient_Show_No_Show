@@ -21,11 +21,12 @@ We then chose to construct five new features: NumAppts, SumNoShow, NoShowRatio, 
 
 ### 4. Model Selection  
 To solve this problem five models were implemented and the results compared. Each model was computed using 10-fold cross validation to reduce overfitting. The following models were selected because they are well suited for binary classification. The models used include:
-  * Logistic Regression *
+  * Logistic Regression 
   * Linear Discriminant Analysis
   * K Neighbors Classifier
   * Decision Tree Classifier
   * Gaussian Naive Bayes
+
 We then took the model with the highest training accuracy, Logistic Regression, and implemented a train/test split of 70/30 to train the model that would generate our submission output.
 
 ### 5. Feature Selection 
