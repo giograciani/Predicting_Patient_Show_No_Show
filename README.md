@@ -5,7 +5,7 @@ This model empowers providers to take the actions necessary to reduce cost and i
 
 ## Getting Started
 
-Download the data set from [Kaggle](https://www.kaggle.com/joniarroba/noshowappointments) 
+Download the data set from [Kaggle](https://www.kaggle.com/joniarroba/noshowappointments) OR from this repo
 
 ## Approach
 ### 1. Literature Review
