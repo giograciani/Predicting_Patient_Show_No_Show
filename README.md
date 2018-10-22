@@ -35,5 +35,11 @@ For our final model recursive feature elimination (RFE) was performed, recursive
 ## Assumptions
 When creating features it was assumed that a patient's history of missing appointments would be highly indicative of missing future appointments, so the following features were constructed: NumAppts, SumNoShow and NoShowRatio. This assumption was supported by Dr. Carly’s talk in class on April 7, 2018 on Prediction of Patient No-Shows.
 
+## Limitations
+If I were to reconduct this experiment I would conduct the following changes: 
+* Due to the highly unbalanced class labels (80% yes, 20% no) I would experiment with varying threshold values for the logistic regression classification rather than just using the standard 0.5.
+* Because the data contains features that range in value in quite a large manner, I would also try normalizing the features and see if that changes my results. 
+* Although 10 fold CV was performed to reduce overfitting, I would be interested to see how this model generalizes on an unseen validation data set.
+
 ## Acknowledgments
 Thank you to Dr. Ankur Teredesai, Dr. Muhammad Ahmad and Dr. Carly Eckert for their guidance in completing this project. 
