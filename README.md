@@ -8,6 +8,9 @@ This model empowers providers to take the actions necessary to reduce cost and i
 Download the data set from [Kaggle](https://www.kaggle.com/joniarroba/noshowappointments) OR from this repo
 
 ## Approach
+### White Paper
+Rea the complete white paper [here](https://docs.google.com/document/d/11Nhi-5B-3z3fbnh5Tf0kzD4D-IbvRZCCVwjBcTYghS4/edit?usp=sharing)
+
 ### 1. Literature Review
 Prior to beginning this project a literature review was conducted to ensure understanding of the problem space, and to facilitate feature and model selection. From the literature review it was understood that patient no-show is a huge burden on the healthcare system (costing an estimated $150billion per year). Predicting patients likely to miss their appointments accurately can empower healthcare providers to take the action necessary to reduce no-show costs and improve patient outcomes. From the literature common features were identified and added to the model including: WaitTime, NoShowRatio, DayWeek, DayMonth. In addition to features, candidate classification models were identified including: Support Vector Machine, Logistic Regression, Naive Bayes. 
 
