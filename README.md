@@ -3,13 +3,11 @@
 In this project I forecasted likelihood of patient show/no show for an appointment using patient EHRs, resulting in an increase in prediction accuracy from 0.81 (baseline) to 0.91. 
 This model empowers providers to take the actions necessary to reduce cost and improve patient outcomes by ensuring high risk patients attend appointments.
 
+Read the complete white paper [here](https://docs.google.com/document/d/11Nhi-5B-3z3fbnh5Tf0kzD4D-IbvRZCCVwjBcTYghS4/edit?usp=sharing).
+
 ## Getting Started
 
 Download the data set from [Kaggle](https://www.kaggle.com/joniarroba/noshowappointments) OR from this repo
-
-## White Paper
-
-Read the complete white paper [here](https://docs.google.com/document/d/11Nhi-5B-3z3fbnh5Tf0kzD4D-IbvRZCCVwjBcTYghS4/edit?usp=sharing)
 
 ## Approach
 ### 1. Literature Review
